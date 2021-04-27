@@ -1,0 +1,36 @@
+ body {
+      margin-top: 50px; 
+}
+ table {
+     display: block;
+     margin: auto;
+     width: 600px;
+     padding: 5px;
+ }
+ tr,td {
+    border: 1px solid black;
+    padding: 20px;
+    margin: 0px;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    background-color: rgb(245, 142, 142);
+}
+
+#title {
+    background-color: lightsteelblue;
+    width: 580px; 
+    height: 50px;
+    text-align: center;
+    margin: auto;
+    border: 1px solid gray;
+    color: black
+}
+
+h1 {
+    color: darkred
+}
+
+.head {
+    background-color: rgb(218, 233, 231);
+}
